@@ -1,0 +1,5 @@
+graph TheBoys {
+a[label="Homelander"];
+b[label="boys"];
+a -> b;
+}
